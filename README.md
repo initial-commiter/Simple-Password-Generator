@@ -1,5 +1,4 @@
 # Simple-Password-Generator
-A Simple Password Generator
 
 This is a simple password generator for creating passwords 6 to 20 characters long.
 The password generated will contain capital, lowercase, special characters, and numbers 0-9.
