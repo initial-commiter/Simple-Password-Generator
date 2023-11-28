@@ -7,4 +7,4 @@ To use the app, simiply type in a number (6-20) and click "Generate".
 You have the ability to copy the password to your clipboard by clicking "Click to copy password".
 
 Please note if using linux you need to have xsel installed. 
-THh command to install xsel is: sudo apt-get install xsel
+The command to install xsel is: sudo apt-get install xsel
