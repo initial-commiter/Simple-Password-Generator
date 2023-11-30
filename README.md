@@ -8,3 +8,5 @@ You have the ability to copy the password to your clipboard by clicking "Click t
 
 Please note if using linux you need to have xsel installed. 
 The command to install xsel is: sudo apt-get install xsel
+
+Windows users please use firefox to download. There are issues with downloading from Google Chrome.
